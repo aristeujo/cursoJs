@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    background-color: greenyellow;
+    border-style: dashed;
+}
+
+#btn{
+    color: yellow;
+    background-color: green;
+}
+
+#btn_2{
+    color: yellow;
+    background-color: red;
+}
