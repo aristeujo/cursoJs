@@ -1,0 +1,27 @@
+{
+  "name": "job_finder",
+  "version": "1.0.0",
+  "description": "Este sistema é um portal para encontrar vagas de emprego",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "dev",
+    "jobs",
+    "emprego",
+    "oportunidade"
+  ],
+  "author": "João Aristeu <jasc.eai18@uea.edu.br>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "sequelize": "^6.25.8",
+    "sqlite3": "^5.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
